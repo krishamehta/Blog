@@ -6,7 +6,7 @@ You can find the link to that paper [here.](http://ccr.sigcomm.org/online/files/
 
 Reading is a skill, a skill that is rarely taught. Many people give up reading papers before they even start while others end up wasting a lot of time and effort. This paper explains in detail one of the many ways in which a research paper can be read.
 
-The paper explains **The Three-Pass Approach***
+The paper explains **The Three-Pass Approach**
 For every paper you read, you must read it in the following manner:
 
 ## 1. The first pass

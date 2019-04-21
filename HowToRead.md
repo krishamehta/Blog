@@ -2,7 +2,7 @@
 
 One of the first paper I ever read was “How to Read a Paper” by S. Keshav. Here is my review for it.
 
-You can find the link to that paper (http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)[here.]
+You can find the link to that paper [here.](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
 Reading is a skill, a skill that is rarely taught. Many people give up reading papers before they even start while others end up wasting a lot of time and effort. This paper explains in detail one of the many ways in which a research paper can be read.
 
@@ -36,6 +36,7 @@ Look at the figures, diagrams and other illustrations. See if there are any erro
 ### The third pass enables you to identify and challenge every assumption in every statement of the paper. By the end of this pass, you should be able to reconstruct the entire structure of the paper from memory, as well as identify its strong and weak points.
 
 There are many platforms that provide research papers.
-(https://scholar.google.co.in/)
 
-(https://arxiv.org/)
+https://scholar.google.co.in/
+
+https://arxiv.org/
